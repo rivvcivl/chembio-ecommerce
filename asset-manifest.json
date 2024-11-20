@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chembio-ecommerce/static/css/main.e6c13ad2.css",
+    "main.js": "/chembio-ecommerce/static/js/main.87ffabed.js",
+    "static/js/453.d855a71b.chunk.js": "/chembio-ecommerce/static/js/453.d855a71b.chunk.js",
+    "index.html": "/chembio-ecommerce/index.html",
+    "main.e6c13ad2.css.map": "/chembio-ecommerce/static/css/main.e6c13ad2.css.map",
+    "main.87ffabed.js.map": "/chembio-ecommerce/static/js/main.87ffabed.js.map",
+    "453.d855a71b.chunk.js.map": "/chembio-ecommerce/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.87ffabed.js"
+  ]
+}
